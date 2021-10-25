@@ -2,10 +2,6 @@
 
 ![Kay Schneutzer](https://www.amazon.com/photos/shared/rHZ9mLsSRI-eWizOZmFR2w.LgVXq5kFq4sjFOWXH4hLKV#center "Kay Schneutzer")
 
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
 ## Statement
 
 The path to success, action, and productivity is not reflexed in a job vita you can read on  Linkedin profile, its the things you will not put there. Here a short Bio more relevant for Redbull Basement Program. 
