@@ -23,28 +23,36 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 ---
 
 ## :fontawesome-solid-briefcase: Work experience
-### Busines Development for Microsoft Technologies & AI in NTT Germany
+
+### Busines Development for Microsoft Technologies & AI 
 > *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
 
 
 
-The quick brown fox jumps over the lazy dog.   
-The quick brown fox jumps over the lazy dog.  
-The quick brown fox jumps over the lazy dog.  
+### Business Development Manager for Microsoft & Workplace 
+> *from 01.05.2019 - 01.09.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
-### Role 2
-> *from 01.01.0000 - 91.01.0000, Company, City* <br>
 
-The quick brown fox jumps over the lazy dog.   
-The quick brown fox jumps over the lazy dog.  
-The quick brown fox jumps over the lazy dog.  
+###  Solution Architect for Microsoft technologies 
+> *from 01.06.2014 - 01.05.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
-### Role 3
-> *from 01.01.0000 - 91.01.0000, Company, City* <br>
+###  Microsoft IT Consultant 
+> *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
+  
 
-The quick brown fox jumps over the lazy dog.  
-The quick brown fox jumps over the lazy dog.  
-The quick brown fox jumps over the lazy dog.  
+###  Microsoft IT Consultant 
+> *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
+
+
+###  Account Manager BPOS 
+> *from 01.01.2010 - 01.05.2011, Tulip Telecom, Mumbai* <br>
+
+###  AIESEC President External Relations 
+> *from 01.01.2009 - 01.05.2013, AIESEC, Halle/Saale* <br>
+
+
+
+
 
 ---
 
