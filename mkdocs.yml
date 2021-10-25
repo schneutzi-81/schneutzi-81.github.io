@@ -1,18 +1,18 @@
 site_name: Joe Doe
-site_url:  https://holgerimbery.github.io/online-resume
+site_url:  https://schneutzi-81.github.io
 site_description: 'online resume'
-site_author: 'Holger Imbery'
+site_author: 'Kay Schneutzer'
 docs_dir: docs/
 
-repo_name: 'https://github.com/holgerimbery/online_resume/'
-repo_url: 'https://github.com/holgerimbery/online_resume/'
+repo_name: 'https://github.com/schneutzi-81.github.io'
+repo_url: 'https://github.com/schneutzi-81.github.io'
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2021 Holger Imbery
+copyright: Copyright &copy; 2021 Kay Schneutzer
 
 nav:
-    - LinkedIn: https://www.linkedin.com/in/joedoe/
+    - LinkedIn: https://www.linkedin.com/in/kay-schneutzer-50169817/
     - Resume: index.md
     
 theme:
