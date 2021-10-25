@@ -1,0 +1,24 @@
+name: generate pages and deploy gh-pages 
+
+on:
+  push:
+    branches: 
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+      - name: Deploy docs
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: pip3 install mkdocs-print-site-plugin
+      - name: Convert https://github.com to PDF
+        uses: "imbhargav5/puppeteer-pdf-action@master"
+        with:
+          url: https://holgerimbery.github.io/online_resume/print_page/
+          output-file-path: docs/resume.pdf
+      - run: mkdocs gh-deploy --force
