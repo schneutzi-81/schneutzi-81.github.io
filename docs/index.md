@@ -7,18 +7,15 @@
 The path to success, action, and productivity is not reflexed in a job vita you can read on  Linkedin profile, its the things you will not put there. Here a short Bio more relevant for Redbull Basement Program. 
 
 Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with topic I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in a international environment - an it happened that I am employed in NTT Germany allowing me to do so. 
-<br>
-<br>
-<br>
-<br>
+
 ---
 
 ## Objective
 
-*Always do what you believe. 
-*Today is always the perfect day to start something new. 
-*Be the trusted person I want to rely on.
-*Whenever i am scared to do something, ensure that i am doing it.  
+* Always do what you believe. 
+* Today is always the perfect day to start something new. 
+* Be the trusted person I want to rely on.
+* Whenever i am scared to do something, ensure that i am doing it.  
 
 ---
 
@@ -27,18 +24,28 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 ### Busines Development for Microsoft Technologies & AI 
 > *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
 
+being Proud Moment: 
+* Mentor European Program (AI) and helping a young group to talents to pitch they idea how they wanted
+* Finalist of 2 Global Hackathon with in NTT with the same Idea for the 3rd time
+* reaching with my Mananger a target with Microsoft even the target was not set. 
+* presenting an Conversation AI with a Partner to Microsoft Global wihtout heavy preparating and doing very well
 
 
 ### Business Development Manager for Microsoft & Workplace 
 > *from 01.05.2019 - 01.09.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
 
+
 ###  Solution Architect for Microsoft technologies 
 > *from 01.06.2014 - 01.05.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
+*Fast Track Program
+*
+
 ###  Microsoft IT Consultant 
 > *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
-  
+
+*Defin
 
 ###  Microsoft IT Consultant 
 > *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
@@ -46,6 +53,9 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 
 ###  Account Manager BPOS 
 > *from 01.01.2010 - 01.05.2011, Tulip Telecom, Mumbai* <br>
+
+*finding personal 
+*Co Fonding Mumbai biggest Ballroom Dance school TanzVerden
 
 ###  AIESEC President External Relations 
 > *from 01.01.2009 - 01.05.2013, AIESEC, Halle/Saale* <br>
