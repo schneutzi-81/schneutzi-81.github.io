@@ -1,7 +1,8 @@
-##### Kay Schneutzer
+# Kay Schneutzer
 <br>
+![Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc)
 <br>
-#### Statement
+## Statement
 
 The path to success, action, and productivity is not reflexed in a job vita you can read on  Linkedin profile, its the things you will not put there. Here a short Bio more relevant for Redbull Basement Program. 
 
