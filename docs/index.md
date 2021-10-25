@@ -1,7 +1,7 @@
 # Kay Schneutzer
-<br>
-<br><br>![Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc)
-<br>
+
+         [Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc)
+
 ## Statement
 
 The path to success, action, and productivity is not reflexed in a job vita you can read on  Linkedin profile, its the things you will not put there. Here a short Bio more relevant for Redbull Basement Program. 
@@ -20,23 +20,19 @@ Today  I  fell home home in Hamburg (Germany) and Goa (India). I do work with to
 ---
 
 ## :fontawesome-solid-briefcase: Work experience
-
 ### Busines Development for Microsoft Technologies & AI 
 > *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
 
-
-
-* Mentor European Program (AI) and helping a young group to talents to pitch they idea how they wanted
-* Finalist of 2 Global Hackathon with in NTT with the same Idea for the 3rd time
-* reaching with my Manager a target with Microsoft even the target was not set. 
-* presenting an Conversation AI with a Partner to Microsoft Global wihtout heavy preparing and doing very well
-* Kitesurfing
-
+* being a mentor for the european development program  and helping a young group to talents people to pitch they idea how they wanted made me learn things which i would not be able to teach them
+* Feeling a bit disappointed being finlist of 2 global Hackathon within NTT with the same Idea for the 3rd time
+* reaching with my Manager a target with the Microsoft even the target was never set. 
+* presenting an Conversation AI with a Partner to Microsoft Global without heavy preparing and doing very well
+* being happy that i finally was able to kitesurfing for the first time
 
 ### Business Development Manager for Microsoft & Workplace 
 > *from 01.05.2019 - 01.09.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
-* Being part of a teams for setting the the Microsoft Bushiness in Dimension Data Germany Ag Co. KG
+* feeling motivated by being part of a teams for setting the the Microsoft Bushiness in Dimension Data Germany Ag Co. KG
 * Being told by a colleague that he believes that he will work with Microsoft Technology because of me
 * Winning an Innovation Award for an Conversational AI which is today part of my job description
 * learning about the value of a having a very good Business Plan 
