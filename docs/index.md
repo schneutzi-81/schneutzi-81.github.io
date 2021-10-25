@@ -3,9 +3,7 @@
 <br>
 #### Statement
 
-The path to success, action, and productivity is not reflexed in a job vita you can read on  Linkedin profile, its the things you will not put there. 
-
-Here a short Bio more relevant for Redbull Basement Program. 
+The path to success, action, and productivity is not reflexed in a job vita you can read on  Linkedin profile, its the things you will not put there. Here a short Bio more relevant for Redbull Basement Program. 
 
 Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with topic I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in a international environment - an it happened that I am employed in NTT Germany allowing me to do so. 
 <br>
@@ -16,9 +14,10 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 
 ## Objective
 
-Being the example i expect   
-The quick brown fox jumps over the lazy dog.  
-The quick brown fox jumps over the lazy dog.  
+*Always do what you believe. 
+*Today is always the perfect day to start something new. 
+*Be the trusted person I want to rely on.
+*Whenever i am scared to do something, ensure that i am doing it.  
 
 ---
 
