@@ -28,24 +28,29 @@ being Proud Moment:
 * Mentor European Program (AI) and helping a young group to talents to pitch they idea how they wanted
 * Finalist of 2 Global Hackathon with in NTT with the same Idea for the 3rd time
 * reaching with my Mananger a target with Microsoft even the target was not set. 
-* presenting an Conversation AI with a Partner to Microsoft Global wihtout heavy preparating and doing very well
+* presenting an Conversation AI with a Partner to Microsoft Global wihtout heavy preparing and doing very well
+* learing Kitesurfing
 
 
 ### Business Development Manager for Microsoft & Workplace 
 > *from 01.05.2019 - 01.09.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
-
+* Beeing part of a teams for setting the the Microsoft Bussines in Dimension Data Germany Ag Co. KG
+* Beeing told by a colleague that he believes that he will work with Microsoft Technology because of me 
+*
 
 ###  Solution Architect for Microsoft technologies 
 > *from 01.06.2014 - 01.05.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
-*Fast Track Program
-*
+* I founding new life time friends during Dimension Data Fast Track Program ins south Africa
+* Giving with my team a very personal presentation during Fast Track Program
 
-###  Microsoft IT Consultant 
+###  Microsoft IT Cloud Consultant 
 > *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
 
-*Defin
+* Beeing leading part of a team building a private Microsoft Could
+* Learing how cloud project can fail
+* Being on of the early cloudconsultant who where looking up the definition of Cloud
 
 ###  Microsoft IT Consultant 
 > *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
