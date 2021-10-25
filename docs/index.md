@@ -23,8 +23,10 @@ The quick brown fox jumps over the lazy dog.
 ---
 
 ## :fontawesome-solid-briefcase: Work experience
-### Role 1
-> *from 01.01.0000 - present, Company, City.* <br>
+### Busines Development for Microsoft Technologies & AI in NTT Germany
+> *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
+
+
 
 The quick brown fox jumps over the lazy dog.   
 The quick brown fox jumps over the lazy dog.  
