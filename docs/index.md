@@ -6,7 +6,7 @@
 
 The path to success, action, and productivity is not reflexed in a job vita you can read on  Linkedin profile, its the things you will not put there. Here a short Bio more relevant for Redbull Basement Program. 
 
-Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with topic I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in a international environment - an it happened that I am employed in NTT Germany allowing me to do so. 
+Today  I  fell home home in Hamburg (Germany) and Goa (India). I do work with topic I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in a international environment - an it happened that I am employed in NTT Germany allowing me to do so. 
 
 ---
 
