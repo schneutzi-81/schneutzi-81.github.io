@@ -1,22 +1,22 @@
-# Kay Schneutzer
-![Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc){ align=right }
-:fontawesome-solid-address-book: I am feeling home in Hamburg (Germany) and Goa (India) 
-:material-email: kay.schneutzer@gergo.net
-:material-email: kay.schneutzer@global.ntt
+##### Kay Schneutzer
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>  
+#### Statement
 
+The path to success, action, and productivity is not reflexed in a job vita you can read on  Linkedin profile, its the things you will not put there. 
+
+Here a short Bio more relevant for Redbull Basement Program. 
+
+Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with topic I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in a international environment - an it happened that I am employed in NTT Germany allowing me to do so. 
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## Objective
-The quick brown fox jumps over the lazy dog.  
+
+Being the example i expect   
 The quick brown fox jumps over the lazy dog.  
 The quick brown fox jumps over the lazy dog.  
 
