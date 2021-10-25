@@ -25,12 +25,12 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 > *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
 
 being Proud Moment: 
-<br>
+
 * Mentor European Program (AI) and helping a young group to talents to pitch they idea how they wanted
 * Finalist of 2 Global Hackathon with in NTT with the same Idea for the 3rd time
 * reaching with my Manager a target with Microsoft even the target was not set. 
 * presenting an Conversation AI with a Partner to Microsoft Global wihtout heavy preparing and doing very well
-*   Kitesurfing
+* Kitesurfing
 
 
 ### Business Development Manager for Microsoft & Workplace 
