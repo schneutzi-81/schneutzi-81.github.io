@@ -24,7 +24,7 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 ### Busines Development for Microsoft Technologies & AI 
 > *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
 
-being Proud Moment: 
+
 
 * Mentor European Program (AI) and helping a young group to talents to pitch they idea how they wanted
 * Finalist of 2 Global Hackathon with in NTT with the same Idea for the 3rd time
@@ -36,9 +36,10 @@ being Proud Moment:
 ### Business Development Manager for Microsoft & Workplace 
 > *from 01.05.2019 - 01.09.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
-* Being part of a teams for setting the the Microsoft Bussiness in Dimension Data Germany Ag Co. KG
-* Being told by a colleague that he believes that he will work with Microsoft Technology because of me 
-* 
+* Being part of a teams for setting the the Microsoft Bushiness in Dimension Data Germany Ag Co. KG
+* Being told by a colleague that he believes that he will work with Microsoft Technology because of me
+* Winning an Innovation Award for an Conversational AI which is today part of my job description
+* learning about the value of a having a very good Business Plan 
 
 ###  Solution Architect for Microsoft technologies 
 > *from 01.06.2014 - 01.05.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
@@ -61,12 +62,17 @@ being Proud Moment:
 * surviving India as a Germany Sales Person
 * Finding my Future wife 
 * Co Fonding Mumbai biggest Ballroom Dance school TanzVerden
+* teaching dancesport in India and seeing my dance couple becoming Indian champion after one year of very hard work
 * leaving on 80 m² with 8 people for 7 countries for 1 Year on an Indian salary 
 
 ###  AIESEC President External Relations 
 > *from 01.01.2009 - 01.05.2013, AIESEC, Halle/Saale* <br>
 
-* 
+* working motivated and long in a team without getting paid for it an being happy about it
+* creating my own internal relationship and friendships which are alive until today.
+* creating my first sales engagement model in an international teams and seeing it applied for a large organization
+* deciding to stop my 20 year long dancecarrier and the higest performance i ever achieved
+* Co fouding a dance school 1STEP in Halle/Saale which still doing well until today
 
 
 
