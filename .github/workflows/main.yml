@@ -19,6 +19,6 @@ jobs:
       - name: Convert https://github.com to PDF
         uses: "imbhargav5/puppeteer-pdf-action@master"
         with:
-          url: https://holgerimbery.github.io/online_resume/print_page/
+          url: https://schneutzi-81.github.io/
           output-file-path: docs/resume.pdf
       - run: mkdocs gh-deploy --force
