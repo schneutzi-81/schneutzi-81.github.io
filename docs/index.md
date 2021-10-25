@@ -1,6 +1,6 @@
 # Kay Schneutzer
 
-         [Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc)
+         ![Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc)
 
 ## Statement
 
@@ -12,7 +12,7 @@ Today  I  fell home home in Hamburg (Germany) and Goa (India). I do work with to
 
 ## Objective
 
-* Always do what you believe. 
+* Always do in what you believe. 
 * Today is always the perfect day to start something new. 
 * Be the trusted person I want to rely on.
 * Whenever i am scared to do something, ensure that i am doing it.  
@@ -77,9 +77,9 @@ Today  I  fell home home in Hamburg (Germany) and Goa (India). I do work with to
 ## :fontawesome-solid-graduation-cap: Education
 The Martin Luther University of Halle-Wittenberg
 
-  * Beeing a profession Ballroom Dancer and teacher 
+  * felling fulfilled being a professional Ballroom Dancer and teacher 
   * Co founding a dance school 1STEP in Halle/Saale which still doing well until today
-  * Studying 1 year in Bratislava (Slovaia) and failing my goals
+  * Studying 1 year in Bratislava (Slovakia) and failing my goals
   * Finishing some curses is sometimes more important than being good at it
     
 
