@@ -1,8 +1,8 @@
 # Kay Schneutzer
 ![Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc){ align=right }
-:fontawesome-solid-address-book: Street Nr. - ZIP Town  
-:material-phone: +49-000-00000  
-:material-email: name@domain.de  
+:fontawesome-solid-address-book: I am feeling home in Hamburg (Germany) and Goa (India) 
+:material-email: kay.schneutzer@gergo.net
+:material-email: kay.schneutzer@global.ntt
 <br>
 <br>
 <br>
