@@ -1,6 +1,6 @@
 # Kay Schneutzer
 <br>
-![Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc)
+<br><br>![Kay Schneutzer](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc)
 <br>
 ## Statement
 
@@ -25,45 +25,48 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 > *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
 
 being Proud Moment: 
+<br>
 * Mentor European Program (AI) and helping a young group to talents to pitch they idea how they wanted
 * Finalist of 2 Global Hackathon with in NTT with the same Idea for the 3rd time
-* reaching with my Mananger a target with Microsoft even the target was not set. 
+* reaching with my Manager a target with Microsoft even the target was not set. 
 * presenting an Conversation AI with a Partner to Microsoft Global wihtout heavy preparing and doing very well
-* learing Kitesurfing
+*   Kitesurfing
 
 
 ### Business Development Manager for Microsoft & Workplace 
 > *from 01.05.2019 - 01.09.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
-* Beeing part of a teams for setting the the Microsoft Bussines in Dimension Data Germany Ag Co. KG
-* Beeing told by a colleague that he believes that he will work with Microsoft Technology because of me 
-*
+* Being part of a teams for setting the the Microsoft Bussiness in Dimension Data Germany Ag Co. KG
+* Being told by a colleague that he believes that he will work with Microsoft Technology because of me 
+* 
 
 ###  Solution Architect for Microsoft technologies 
 > *from 01.06.2014 - 01.05.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
 
 * I founding new life time friends during Dimension Data Fast Track Program ins south Africa
 * Giving with my team a very personal presentation during Fast Track Program
+* conducting a West Cost Swing Festival in India ![Namste Swing](https://namasteswing.in/?fbclid=IwAR0uXs7akKQcK8jYuyX1Mn10ynVbIk6T94COuCZo9Is5tmRcFl4Gt54W6Xc)
 
 ###  Microsoft IT Cloud Consultant 
 > *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
 
 * Beeing leading part of a team building a private Microsoft Could
 * Learing how cloud project can fail
-* Being on of the early cloudconsultant who where looking up the definition of Cloud
-
-###  Microsoft IT Consultant 
-> *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
-
+* Being on of the early cloud Consultant who where still looking up the definition of Cloud to understand what their job is about
 
 ###  Account Manager BPOS 
 > *from 01.01.2010 - 01.05.2011, Tulip Telecom, Mumbai* <br>
 
-*finding personal 
-*Co Fonding Mumbai biggest Ballroom Dance school TanzVerden
+* finding personal 
+* surviving India as a Germany Sales Person
+* Finding my Future wife 
+* Co Fonding Mumbai biggest Ballroom Dance school TanzVerden
+* leaving on 80 m² with 8 people for 7 countries for 1 Year on an Indian salary 
 
 ###  AIESEC President External Relations 
 > *from 01.01.2009 - 01.05.2013, AIESEC, Halle/Saale* <br>
+
+* 
 
 
 
