@@ -46,7 +46,7 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 
 * I founding new life time friends during Dimension Data Fast Track Program ins south Africa
 * Giving with my team a very personal presentation during Fast Track Program
-* conducting a West Cost Swing Festival in India ![Namste Swing](https://namasteswing.in/?fbclid=IwAR0uXs7akKQcK8jYuyX1Mn10ynVbIk6T94COuCZo9Is5tmRcFl4Gt54W6Xc)
+* conducting a West Cost Swing Festival in India [Namste Swing](https://namasteswing.in/?fbclid=IwAR0uXs7akKQcK8jYuyX1Mn10ynVbIk6T94COuCZo9Is5tmRcFl4Gt54W6Xc)
 
 ###  Microsoft IT Cloud Consultant 
 > *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
@@ -59,11 +59,13 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 > *from 01.01.2010 - 01.05.2011, Tulip Telecom, Mumbai* <br>
 
 * finding personal 
-* surviving India as a Germany Sales Person
+* surviving India as a Germany Sales Person, and having realy experince my personal limts 
 * Finding my Future wife 
 * Co Fonding Mumbai biggest Ballroom Dance school TanzVerden
 * teaching dancesport in India and seeing my dance couple becoming Indian champion after one year of very hard work
 * leaving on 80 m² with 8 people for 7 countries for 1 Year on an Indian salary 
+* opening a letter i wrote to my self telling me why i went to India
+* getting to know what my personal vallues truly are. 
 
 ###  AIESEC President External Relations 
 > *from 01.01.2009 - 01.05.2013, AIESEC, Halle/Saale* <br>
@@ -71,27 +73,35 @@ Today  I am  fell home home in Hamburg (Germany) and Goa (India). I do work with
 * working motivated and long in a team without getting paid for it an being happy about it
 * creating my own internal relationship and friendships which are alive until today.
 * creating my first sales engagement model in an international teams and seeing it applied for a large organization
-* deciding to stop my 20 year long dancecarrier and the higest performance i ever achieved
-* Co fouding a dance school 1STEP in Halle/Saale which still doing well until today
-
-
-
-
+* deciding to stop my 20 year long dancecarrier and the highest performance i ever achieved
+* Co founding a dance school 1STEP in Halle/Saale which still doing well until today
 
 ---
 
 ## :fontawesome-solid-graduation-cap: Education
-The quick brown fox jumps over the lazy dog  
+The Martin Luther University of Halle-Wittenberg
 
-  - The quick brown fox jumps over the lazy dog  
-  - The quick brown fox jumps over the lazy dog  
-  - The quick brown fox jumps over the lazy dog  
+  * Beeing a profession Ballroom Dancer and teacher 
+  * Co founding a dance school 1STEP in Halle/Saale which still doing well until today
+  * Studying 1 year in Bratislava (Slovaia) and failing my goals
+  * Finishing some curses is sometimes more important than being good at it
+    
+
+Elisabeth-Gymnasium Halle
+
+  * starting dancing in the age of 8 
+  * doing early what I was loving and becoming really good ad it is still helping me until today
 
 ---
 
 ## :material-puzzle: Skills
-The quick brown fox jumps over the lazy dog  
+its expected that I have the skills to I do have skills to practice my today job
+however here are some skills i train everyday: 
 
-  - The quick brown fox jumps over the lazy dog  
-  - The quick brown fox jumps over the lazy dog  
-  - The quick brown fox jumps over the lazy dog  
+Body Language, Physical Communication, Writing, Storytelling, Visual Communication,  Humor, Quick-wittedness, Listening, Presentation Skills,  Public Speaking, Interviewing, Team Building, Strategic Planning, Coaching, Mentoring , Delegation, Dispute Resolution, Diplomacy, Giving Feedback , Managing Difficult Conversations 
+Decision Making , Performance Management , Managing Manager Management,  Talent Management, Managing Remote Teams 
+Managing Virtual Teams , Crisis Management , Influencing , Facilitation, Selling , Inspiring , Persuasion, Negotiation
+Motivating , Collaborating , Interpersonal Skills, Interpersonal Relationships, Dealing with Difficult People , Conflict Resolution , Personal Branding , Self Awareness, Emotion Management, Stress Management , Tolerance of Change and Uncertainty , Taking Criticism , Self Confidence , Adaptability ,  Resilience , Assertiveness , Competitiveness 
+Self Leadership , Self Assessment , Work-Life Balance , Friendliness , Enthusiasm , Empathy, Problem Solving , Critical Thinking , Innovation , Troubleshooting , Design Sense, Artistic Sense , Organization ,mPlanning , Scheduling , Time Management , Meeting Management ,Technology Savvy ,Technology Trend Awareness ,Business Trend ,Awareness ,Business Etiquette , Business Ethics ,Diversity Awareness ,Disability Awareness ,Intercultural Competence 
+Train the Trainer , Process Improvement ,Knowledge Management, Writing Reports and Proposals , Customer Service ,Entrepreneurial Thinking
+ 
