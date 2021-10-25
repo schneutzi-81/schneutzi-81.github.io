@@ -9,25 +9,24 @@ The path to success, action, and productivity is not reflected in a job vita you
 Today  I  fell home home in Hamburg (Germany) and Goa (India). I do work with topic I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in a international environment - an it happened that I am employed in NTT Germany allowing me to do so. 
 
 ---
-
 ## Objective
 
 * Always do in what you believe. 
 * Today is always the perfect day to start something new. 
 * Be the trusted person I want to rely on.
 * Whenever i am scared to do something, ensure that i am doing it.  
-
+  
 ---
-
 ## :fontawesome-solid-briefcase: Work experience
 ### Busines Development for Microsoft Technologies & AI 
 > *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
 
 * being a mentor for the european development program  and helping a young group to talents people to pitch they idea how they wanted made me learn things which i would not be able to teach them
-* Feeling a bit disappointed being finlist of 2 global Hackathon within NTT with the same Idea for the 3rd time
-* reaching with my Manager a target with the Microsoft even the target was never set. 
+* Feeling a bit disappointed being finalist of 2 global hackathon within NTT with the same idea for the 3rd time
+* reaching with my Manager a target with Microsoft even the target was never set
 * presenting an Conversation AI with a Partner to Microsoft Global without heavy preparing and doing very well
 * being happy that i finally was able to kitesurfing for the first time
+* being able to explain conversational AI to anyone at any time with my colleague [Holger](https://github.com/holgerimbery"Holger") without any preparation needed
 
 ### Business Development Manager for Microsoft & Workplace 
 > *from 01.05.2019 - 01.09.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
