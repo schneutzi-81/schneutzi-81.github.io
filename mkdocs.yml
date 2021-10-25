@@ -1,6 +1,6 @@
-site_name: Kay Schneutzer | Redbull Basement Speaker Vita
+site_name: Kay Schneutzer | Redbull Basement Speaker
 site_url:  https://schneutzi-81.github.io
-site_description: 'online resume'
+site_description: 'Redbull Basement Speaker Vita'
 site_author: 'Kay Schneutzer'
 docs_dir: docs/
 
@@ -31,14 +31,14 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/joedoe
-      name: Joe Doe on Twitter
+      link: https://twitter.com/Goangern
+      name: Goangern on Twitter
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/joedoe/
-      name: Joe Doe on Linkedin
+      link: https://www.linkedin.com/in/kay-schneutzer-50169817/
+      name: Kay Schneutzer on Linkedin
     - icon: fontawesome/brands/github
-      link: https://github.com/joedoe
-      name: Joe Doe on github
+      link: https://github.com/schneutzi-81
+      name: Schneutzi on github
   
 markdown_extensions:
   - meta
