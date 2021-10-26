@@ -56,11 +56,11 @@ Today  I  feel home in Hamburg (Germany) and Goa (India). I work with topics I r
 * finding personal boundaries
 * surviving India as a German Sales Person and truly reaching my personal limits 
 * meeting my future wife 
-* Co Fonding Mumbai's biggest Ballroom Dance school TanzVerden
+* Co Fonding Mumbai's biggest Ballroom Dance school [TanzVerden](https://www.facebook.com/TanzVerdenBallroomInternational"TanzVerden")
 * teaching dancesport in India and watching my dance couple becoming Indian champion after one year of very hard work
 * living on 80 m² with 8 people from 7 countries for 1 Year on an Indian salary 
 * opening a letter I wrote to my self telling me why I went to India
-* getting to know what my personal vallues truly are. 
+* getting to know what my personal values truly are. 
 
 ###  AIESEC President External Relations 
 > *from 01.01.2009 - 01.05.2013, AIESEC, Halle/Saale* <br>
@@ -77,7 +77,7 @@ Today  I  feel home in Hamburg (Germany) and Goa (India). I work with topics I r
 The Martin Luther University of Halle-Wittenberg
 
   * feeling fulfilled being a professional Ballroom dancer and teacher 
-  * Co-founding a dance school 1STEP in Halle/Saale which is still doing well today
+  * Co-founding a dance school [1STEP](https://ballroomlounge.wordpress.com/"1STEP") in Halle/Saale which is still doing well today
   * Studying for one year in Bratislava (Slovakia) and failing
   * Finishing some courses is sometimes more important than being good at it
     
