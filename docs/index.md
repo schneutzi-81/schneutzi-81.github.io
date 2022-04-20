@@ -1,6 +1,6 @@
 # Kay Schneutzer
 
-![profile_picture](https://media-exp1.licdn.com/dms/image/C4D03AQEjI98_MGcNsg/profile-displayphoto-shrink_400_400/0/1542322521822?e=1640822400&v=beta&t=5Brrb916zz5TOYuy7toHiMAIR0Bva0YrRBjNzfer9uc)
+![profile_picture](https://github.com/schneutzi-81/schneutzi-81.github.io/blob/master/docs/2018-11-16_00-21-25_213.jpeg?raw=true)
 
 ## Statement
 
