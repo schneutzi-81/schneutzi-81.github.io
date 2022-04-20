@@ -4,7 +4,7 @@
 
 ## Statement
 
-The path to success, action, and productivity is not reflected in a job vita you can read on [Linkedin](https://www.linkedin.com/in/kay-schneutzer-50169817/"Linkedin"). It's the things you won't find there. Here's a short bio with interesting insight for the Redbull Basement Program. 
+The path to success, action, and productivity is not reflected in a job vita you can read on [Linkedin](https://www.linkedin.com/in/kay-schneutzer-50169817/"Linkedin"). It's the things you won't find there. Here's a short bio with interesting insight for the M365 Summit . 
 
 Today  I  feel home in Hamburg (Germany) and Goa (India). I work with topics I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in an international environment - and it happened with being employed at NTT Germany and them allowing me to do so. 
 
@@ -97,6 +97,5 @@ Body Language, Physical Communication, Writing, Storytelling, Visual Communicati
 Decision Making , Performance Management , Managing Manager Management,  Talent Management, Managing Remote Teams 
 Managing Virtual Teams , Crisis Management , Influencing , Facilitation, Selling , Inspiring , Persuasion, Negotiation
 Motivating , Collaborating , Interpersonal Skills, Interpersonal Relationships, Dealing with Difficult People , Conflict Resolution , Personal Branding , Self Awareness, Emotion Management, Stress Management , Tolerance of Change and Uncertainty , Taking Criticism , Self Confidence , Adaptability ,  Resilience , Assertiveness , Competitiveness 
-Self Leadership , Self Assessment , Work-Life Balance , Friendliness , Enthusiasm , Empathy, Problem Solving , Critical Thinking , Innovation , Troubleshooting , Design Sense, Artistic Sense , Organization ,Planning , Scheduling , Time Management , Meeting Management ,Technology Savvy ,Technology Trend Awareness ,Business Trend ,Awareness ,Business Etiquette , Business Ethics ,Diversity Awareness ,Disability Awareness ,Intercultural Competence 
-Train the Trainer , Process Improvement ,Knowledge Management, Writing Reports and Proposals , Customer Service ,Entrepreneurial Thinking
+Self Leadership , Self Assessment , Work-Life Balance , Friendliness , Enthusiasm , Empathy, Problem Solving , Critical Thinking , Innovation , Troubleshooting , Design Sense, Artistic Sense , Organization ,Planning , Scheduling , Time Management , Meeting Management ,Technology Savvy ,Technology Trend Awareness ,Business Trend ,Awareness ,Business Etiquette , Business Ethics ,Diversity Awareness ,Disability Awareness ,Intercultural Competence, Train the Trainer , Process Improvement ,Knowledge Management, Writing Reports and Proposals , Customer Service ,Entrepreneurial Thinking
  
