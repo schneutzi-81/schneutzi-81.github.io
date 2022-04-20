@@ -1,11 +1,11 @@
-site_name: Kay Schneutzer | Redbull Basement Speaker
+site_name: Kay Schneutzer | M365 Summit
 site_url:  https://schneutzi-81.github.io
-site_description: 'Redbull Basement Speaker Vita'
+site_description: 'M365 Summit Speaker Vita'
 site_author: 'Kay Schneutzer'
 docs_dir: docs/
 
-repo_name: 'https://github.com/schneutzi-81.github.io'
-repo_url: 'https://github.com/schneutzi-81.github.io'
+repo_name: 'https://github.com/schneutzi-81'
+repo_url: 'https://github.com/schneutzi-81'
 edit_uri: edit/main/docs/
 
 # Copyright
