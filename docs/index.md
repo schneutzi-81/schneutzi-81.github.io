@@ -4,6 +4,8 @@
 
 ## Statement
 
+Das ist ein Test
+
 The path to success, action, and productivity is not reflected in a job vita you can read on [Linkedin](https://www.linkedin.com/in/kay-schneutzer-50169817/"Linkedin"). It's the things you won't find there. Here's a short bio with interesting insight for the M365 Summit . 
 
 Today  I  feel home in Hamburg (Germany) and Goa (India). I work with topics I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in an international environment - and it happened with being employed at NTT Germany and them allowing me to do so. 
