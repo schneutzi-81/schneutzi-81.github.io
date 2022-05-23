@@ -4,7 +4,6 @@
 
 ## Statement
 
-Das ist ein Test
 
 The path to success, action, and productivity is not reflected in a job vita you can read on [Linkedin](https://www.linkedin.com/in/kay-schneutzer-50169817/"Linkedin"). It's the things you won't find there. Here's a short bio with interesting insight for the M365 Summit . 
 
