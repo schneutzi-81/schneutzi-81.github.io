@@ -5,7 +5,7 @@
 ## Statement
 
 
-The path to success, action, and productivity is not reflected in a job vita you can read on [Linkedin](https://www.linkedin.com/in/kay-schneutzer-50169817/"Linkedin"). It's the things you won't find there. Here's a short bio with interesting insight out my vita. 
+The path to success, action, and productivity is not reflected in a job vita you can read on [Linkedin](https://www.linkedin.com/in/kay-schneutzer-50169817/"Linkedin"). It's the things you won't find there. Here's a short bio with interesting insight out my vita.
 
 Today  I  feel home in Hamburg (Germany) and Goa (India). I work with topics I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in an international environment - and it happened with being employed at NTT Germany and them allowing me to do so. 
 
@@ -20,7 +20,7 @@ Today  I  feel home in Hamburg (Germany) and Goa (India). I work with topics I r
 ---
 ## :fontawesome-solid-briefcase: Work experience
 ### Busines Development for Microsoft Technologies & AI 
-> *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamrbug.* <br>
+> *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamburg.* <br>
 
 * being a mentor for the european development program  and helping a young group of talented people pitch their ideas to make me learn things I would not be able to teach them
 * Feeling a bit disappointed being finalist at 2 global hackathons within NTT with the same idea for the 3rd time
