@@ -17,4 +17,10 @@ NTT Brand Ambassadors Empower people to carry out NTT values
 | Row 1 Column 1  | Row 1 Column 2  | Row 1 Column 3  |
 | Row 2 Column 1  | Row 2 Column 2  | Row 2 Column 3  |
 
-update
+| Feature   | Free | Paid |
+ |--------- |------|------| 
+ | Dashboard | Access to basic dashboard with limited customization options | Access to advanced dashboard with full customization options | 
+ | Reports | Access to basic reports | Access to advanced reports with more detailed insights | 
+ | Data Export | Ability to export data in CSV format 
+ | Ability to export data in multiple formats | 
+ | Support | Limited support | Full support |
