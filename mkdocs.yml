@@ -1,6 +1,6 @@
 site_name: Kay Schneutzer | M365 Summit
 site_url:  https://schneutzi-81.github.io
-site_description: 'M365 Summit Speaker Vita'
+site_description: 'Kay Schneutzer Vita'
 site_author: 'Kay Schneutzer'
 docs_dir: docs/
 
@@ -14,6 +14,7 @@ copyright: Copyright &copy; 2021 Kay Schneutzer
 nav:
     - LinkedIn: https://www.linkedin.com/in/kay-schneutzer-50169817/
     - Resume: index.md
+    - Professional Vita: resume.md
     
 theme:
   name: 'material'
