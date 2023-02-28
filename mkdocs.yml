@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2021 Kay Schneutzer
 nav:
     - LinkedIn: https://www.linkedin.com/in/kay-schneutzer-50169817/
     - Resume: index.md
-    - Professional Vita: resume.md
+#    - Professional Vita: resume.md
     
 theme:
   name: 'material'
