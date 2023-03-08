@@ -35,7 +35,7 @@ NTT Brand Ambassadors Empower people to carry out NTT values
 |Industry Solution|Microsoft, Conversational AI Automotive, first PHVS managed Services Germany for Azure|NTT Direct Contact due recommendation of Industry Solution Microsoft|Booked: 300k PHVS First Project Shared with NTT DATA|
 |Framework NTT to global electronics manufacture|Joined GTM with global electronics manufacture & NTT|Offering managed Cloud Services (PHVS) to Client|Business Plan over <10m|
 |Claimed Partner of Record|Microsoft, NTT Alliance manager|28 claims|100k|
-|End Customer Investment Funds|Over 10 ECIF, including Schwarz IT, and first Power Platform funding in Germany, approved Azure ECIF|Relationship Management with Microsoft local, and global|2m|
+|End Customer Investment Funds|Over 10 ECIF, first Power Platform funding in Germany, approved Azure ECIF|Relationship Management with Microsoft local, and global|2m|
 |Framework Contract Software Partner|Consumer Goods, Automotive, Conglomerate|Negotiation and onboarding|<5m to today|
 |Framework Contract NTT Nihilent|Pharmaceuticals|First NTT Germany only Conversation AI engagement|Booked: 12k Pipeline: <1m|
 |Modern Workplace Council (personal NDA) with Microsoft|Microsoft|Weekly close personal exchange with Microsoft employees on all levels|NTT brand within Microsoft Germany|
@@ -48,7 +48,6 @@ NTT Brand Ambassadors Empower people to carry out NTT values
 |NTT Germany Kickoff presenter for Innovation|NTT Germany|Speaker for NTT Germany|NTT Germany motivation|
 |M365 Summit speaker|NTT Germany|Speaker for NTT Germany|Demand generation|
 |Ministerialkongress Young Circle|NTT Germany, BearingPoint|Speaker for NTT Germany|Demand generation|
-|Conversation AI| | | | |
 
 
 
