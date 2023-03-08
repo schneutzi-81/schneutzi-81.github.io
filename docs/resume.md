@@ -12,10 +12,13 @@ Sharing Economy: Setting up a digital business foundation
 NTT Brand Ambassadors Empower people to carry out NTT values
 
 
-| Technology/Service | Industry/Partner | Initiative/Status | Results |
-| --- | --- | --- | --- |
-| Cloud Voice CX | NTTCC R&D, funded by Microsoft globally | Driven ACS Integration on feedback from the market | Global launch of Cloud Voice for Azure Communication Services |
-| Conversation AI | Direct Feedback to Microsoft HQ for cognitive Services | Driving AI adoption with Microsoft for joined automotive client | Trusted advisor in Europe & Germany GTM for Conversation Voice AI |
-| Teams Voice Automation | Telecommunications Provider | Scale out local Priority high value Service CS | Booked:100k booked Pipeline: 2m |
-| Conversation AI | Public Sector | Prepare for RFP | Pipeline: 100k TS Pipeline: 250k PHVS |
-| Conversation AI | Public Sector
+| Topic               | Client/Stakeholder                                  | Execution                                                   | Value                    |
+|---------------------|-----------------------------------------------------|-------------------------------------------------------------|--------------------------|
+| Cloud Voice CX      | NTTCC R&D, funded by Microsoft globally             | Driven ACS Integration on feedback from the market           | Global launch of Cloud Voice for Azure Communication Services |
+| Conversation AI     | Direct Feedback to Microsoft HQ for cognitive Services | Driving AI adoption with Microsoft for joined automotive client | Trusted advisor in Europe & Germany GTM for Conversation Voice AI |
+| Teams Voice Automation | Telecommunications Provider                        | Scale out local Priority high value Service CS               | Booked:100k booked Pipeline: 2m     |
+| Conversation AI     | Public Sector                                       | Prepare for RFP                                             | Pipeline: 100k TS Pipeline: 250k PHVS |
+| Conversation AI     | Public Sector                                       | Prepare for RFP                                             | Pipeline: 250k TS Pipeline: 500k PHVS |
+| Conversation AI     | Pharmaceuticals                                     | ECIF ongoing                                                | Booked: 15k Pipeline: 500k PHVS |
+
+
