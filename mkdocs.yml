@@ -16,7 +16,7 @@ nav:
     - My Profile: https://github.com/schneutzi-81/schneutzi-81.github.io/raw/master/docs/assets/Profile%2BKay%2BSchneutzer.pdf
     - About me: index.md
     - Curriculum Vitae : https://github.com/schneutzi-81/schneutzi-81.github.io/raw/master/docs/assets/Kay%2BSchneutzer%2B-%2B%2BGlobal%2BBDM.pdf
-  	- Professional Track of Record: TrackofRecord.md
+  	- Professional Track of Record: trackofrecord.md
     
 theme:
   name: 'material'
