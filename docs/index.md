@@ -19,7 +19,7 @@ Today  I  feel home in Hamburg (Germany) and Goa (India). I work with topics I r
   
 ---
 ## :fontawesome-solid-briefcase: Work experience
-### Busines Development for Microsoft Technologies & AI 
+### Business Development for Microsoft Technologies & AI 
 > *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamburg.* <br>
 
 * being a mentor for the european development program  and helping a young group of talented people pitch their ideas to make me learn things I would not be able to teach them
