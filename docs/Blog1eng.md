@@ -28,15 +28,15 @@ The cost of AI services varies depending on the use case and should always be co
 
 | Category                | Examples                  | Cost                                                                 |
 |-------------------------|---------------------------|----------------------------------------------------------------------|
-| Application             | Microsoft Teams Premium, Microsoft Copilot                            | Price per user/pre-paid/month                                        |
-| Platform                | Power Virtual Agent, Power Automate, AI Builder                       | Different pricing models:                                            |
-|                         |                           | - Per user                                                          |
-|                         |                           | - Per Services Credits                                              |
-|                         |                           | - Pre-Paid / Month                                                  |
-|                         |                           | - Depending on units (text characters, images, pages)                |
-| Scenario-based          | Azure Cognitive Services, Form Recognizer, etc.                       | Usage-based costs, pay-as-you-go, commitment tier                    |
-| Azure Cognitive Search  | Azure Cognitive Search                                               | Cost depends on tier model, units in time, memory type                |
-| Applied AI / Cognitive Services | Open AI Models                                                    | Per token, depending on model type and number of tokens processed     |
+| Application             | Microsoft Teams Premium, Microsoft Copilot                            | Price per user/pre-paid/month                                       
+| Platform                | Power Virtual Agent, Power Automate, AI Builder                       | Different pricing models:                                            
+                                                                                                     - Per user                |
+                                                                                                     - Per Services Credits    |
+                                                                                                     - Pre-Paid / Month        |
+                                                                                                     - Depending on units (text characters, images, pages) |
+| Scenario-based          | Azure Cognitive Services, Form Recognizer, etc.                       | Usage-based costs, pay-as-you-go, commitment tier      |
+| Azure Cognitive Search  | Azure Cognitive Search                                               | Cost depends on tier model, units in time, memory type  |
+| Applied AI / Cognitive Services | Open AI Models                                                    | Per token, depending on model type and number of tokens processed   |
 | Azure Machine Learning platforms | Azure Machine Learning platforms                                 | Depending on time unit, compute resources, tokens, chats commitments |
 
 An important aspect that buyers and technicians should consider is the influence of commitments on costs. In many cases, longer commitments to AI services offer cost advantages in terms of time and computing power. These commitments can prove to be a smart investment to reduce costs and stay in control of spending in the long run.
