@@ -1,8 +1,4 @@
- 
-
-
-
-OpenAI, beziehungsweise Generative AI, wird in vielen Microsoft-Produkten verwendet. Daher ist es wichtig, sich das ganze aus verschiedene Ebenen zu betrachten um ein Grundverständnis zu verbessern und mit sich mit internen und externen Stakeholdern auszutauschen. 
+ OpenAI, beziehungsweise Generative AI, wird in vielen Microsoft-Produkten verwendet. Daher ist es wichtig, sich das ganze aus verschiedene Ebenen zu betrachten um ein Grundverständnis zu verbessern und mit sich mit internen und externen Stakeholdern auszutauschen. 
 
 Es gibt verschiedene Kategorien/Level wie wir AI Services Beziehen können: 
  
