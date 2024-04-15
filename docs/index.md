@@ -2,7 +2,7 @@
 
 Test
 
-![profile_picture](https://github.com/schneutzi-81/schneutzi-81.github.io/blob/master/docs/2018-11-16_00-21-25_213.jpeg?raw=true)
+![profile_picture]([https://github.com/schneutzi-81/schneutzi-81.github.io/blob/master/docs/2018-11-16_00-21-25_213.jpeg?raw=true](https://github.com/schneutzi-81/schneutzi-81.github.io/blob/master/docs/assets/SWO-105207-20240305_10-52-07.jpg?raw=true))
 
 ## Statement
 
