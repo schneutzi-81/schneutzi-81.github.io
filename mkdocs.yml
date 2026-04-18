@@ -1,5 +1,5 @@
 site_name: Kay Schneutzer | Leadership is about empathy
-site_url:  https://schneutzi-81.github.io
+site_url: https://schneutzi-81.github.io
 site_description: 'Kay Schneutzer Vita'
 site_author: 'Kay Schneutzer'
 docs_dir: docs/
@@ -9,47 +9,78 @@ repo_url: 'https://github.com/schneutzi-81'
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2023 Kay Schneutzer
+copyright: Copyright &copy; 2024 Kay Schneutzer
 
 nav:
-    - LinkedIn: https://www.linkedin.com/in/kay-schneutzer-50169817/
-    - My Profile: https://github.com/schneutzi-81/schneutzi-81.github.io/raw/master/docs/assets/Profile%2BKay%2BSchneutzer.pdf
     - About me: index.md
-    - Curriculum Vitae : https://github.com/schneutzi-81/schneutzi-81.github.io/raw/master/docs/assets/Kay%2BSchneutzer%2B-%2B%2BGlobal%2BBDM.pdf
     - Professional Track of Record: trackofrecord.md
-    
+    - LinkedIn: https://www.linkedin.com/in/kay-schneutzer-50169817/
+    - Curriculum Vitae: https://github.com/schneutzi-81/schneutzi-81.github.io/raw/master/docs/assets/Kay%2BSchneutzer%2B-%2B%2BGlobal%2BBDM.pdf
+
 theme:
   name: 'material'
   custom_dir: docs/overrides
   palette:
-    primary: white
-  
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Roboto Mono
+  icon:
+    logo: material/account-circle
   features:
     - navigation.tracking
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.sections
     - search.highlight
     - search.share
     - search.suggest
-    
+    - content.tooltips
 
 extra:
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/Goangern
-      name: Goangern on Twitter
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/kay-schneutzer-50169817/
-      name: Kay Schneutzer on Linkedin
+      name: Kay Schneutzer on LinkedIn
     - icon: fontawesome/brands/github
       link: https://github.com/schneutzi-81
-      name: Schneutzi on github
-  
+      name: Schneutzi on GitHub
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/Goangern
+      name: Goangern on X
+
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - meta
   - attr_list
+  - md_in_html
+  - tables
+  - admonition
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
 
 plugins:
   - search
@@ -59,4 +90,3 @@ plugins:
        enumerate_headings: false
        add_print_site_banner: false
        path_to_pdf: "resume.pdf"
-  

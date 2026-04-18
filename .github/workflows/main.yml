@@ -1,24 +1,22 @@
-name: generate pages and deploy gh-pages 
+name: generate pages and deploy gh-pages
 
 on:
   push:
-    branches: 
+    branches:
       - master
+
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master
-        uses: actions/checkout@v2
-      - name: Deploy docs
-        uses: actions/setup-python@v2
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: pip3 install mkdocs-print-site-plugin
-      - name: Convert https://github.com to PDF
-        uses: "imbhargav5/puppeteer-pdf-action@master"
-        with:
-          url: https://schneutzi-81.github.io/
-          output-file-path: docs/resume.pdf
+      - run: pip install mkdocs-material mkdocs-print-site-plugin
       - run: mkdocs gh-deploy --force
