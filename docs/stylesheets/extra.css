@@ -1,3 +1,40 @@
+/* Black & white theme overrides - light mode */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #000;
+  --md-primary-bg-color: #fff;
+  --md-accent-fg-color: #444;
+  --md-typeset-a-color: #000;
+}
+
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="default"] .md-tabs {
+  background: #fff;
+  color: #000;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+[data-md-color-scheme="default"] .md-header .md-header__title,
+[data-md-color-scheme="default"] .md-header .md-icon,
+[data-md-color-scheme="default"] .md-tabs .md-tabs__link {
+  color: #000;
+}
+
+/* Black & white theme overrides - dark mode */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #fff;
+  --md-primary-bg-color: #1a1a1a;
+  --md-default-bg-color: #121212;
+  --md-accent-fg-color: #ccc;
+  --md-typeset-a-color: #fff;
+}
+
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+  background: #1a1a1a;
+  color: #fff;
+  border-bottom: 1px solid #333;
+}
+
 /* Typography and spacing */
 .md-typeset h1 {
   font-weight: 700;
@@ -33,12 +70,17 @@
 }
 
 .md-typeset table:not([class]) th {
-  background: var(--md-primary-fg-color);
-  color: var(--md-primary-bg-color);
+  background: #222;
+  color: #fff;
   font-weight: 600;
   text-transform: uppercase;
   font-size: 0.75rem;
   letter-spacing: 0.05em;
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background: #333;
+  color: #fff;
 }
 
 /* Profile image responsive */

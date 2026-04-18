@@ -22,14 +22,14 @@ theme:
   custom_dir: docs/overrides
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: white
+      accent: black
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: black
+      accent: white
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
