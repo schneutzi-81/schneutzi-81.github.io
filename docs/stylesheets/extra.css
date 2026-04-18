@@ -1,109 +1,443 @@
-/* Black & white theme overrides - light mode */
-[data-md-color-scheme="default"] {
-  --md-primary-fg-color: #000;
-  --md-primary-bg-color: #fff;
-  --md-accent-fg-color: #444;
-  --md-typeset-a-color: #000;
+/* ============================================
+   Apple-inspired theme for MkDocs Material
+   ============================================ */
+
+/* --- System font stack (SF Pro on Apple, Helvetica Neue elsewhere) --- */
+:root {
+  --md-text-font: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text",
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --md-code-font: "SF Mono", SFMono-Regular, ui-monospace, "Cascadia Code",
+    Menlo, Consolas, monospace;
 }
 
-[data-md-color-scheme="default"] .md-header,
-[data-md-color-scheme="default"] .md-tabs {
-  background: #fff;
-  color: #000;
-  border-bottom: 1px solid #e0e0e0;
+body {
+  font-family: var(--md-text-font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* --- Light mode --- */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1d1d1f;
+  --md-primary-bg-color: #fff;
+  --md-default-bg-color: #fbfbfd;
+  --md-accent-fg-color: #1d1d1f;
+  --md-typeset-a-color: #1d1d1f;
+  --md-default-fg-color: #1d1d1f;
+  --md-default-fg-color--light: #6e6e73;
+  --md-default-fg-color--lighter: #86868b;
+  --md-default-fg-color--lightest: #d2d2d7;
+  --md-code-bg-color: #f5f5f7;
+  --md-footer-bg-color: #f5f5f7;
+  --md-footer-fg-color: #6e6e73;
+}
+
+/* --- Dark mode (Apple dark) --- */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #f5f5f7;
+  --md-primary-bg-color: #1d1d1f;
+  --md-default-bg-color: #000;
+  --md-accent-fg-color: #f5f5f7;
+  --md-typeset-a-color: #f5f5f7;
+  --md-default-fg-color: #f5f5f7;
+  --md-default-fg-color--light: #a1a1a6;
+  --md-default-fg-color--lighter: #86868b;
+  --md-default-fg-color--lightest: #424245;
+  --md-code-bg-color: #1d1d1f;
+  --md-footer-bg-color: #1d1d1f;
+  --md-footer-fg-color: #86868b;
+}
+
+/* --- Smooth theme transition --- */
+body,
+.md-header,
+.md-tabs,
+.md-main,
+.md-footer,
+.md-sidebar {
+  transition: background-color 0.4s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* --- Frosted glass navigation --- */
+.md-header {
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  box-shadow: none !important;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+[data-md-color-scheme="default"] .md-header {
+  background: rgba(251, 251, 253, 0.8) !important;
+  color: #1d1d1f;
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  background: rgba(0, 0, 0, 0.8) !important;
+  color: #f5f5f7;
 }
 
 [data-md-color-scheme="default"] .md-header .md-header__title,
 [data-md-color-scheme="default"] .md-header .md-icon,
-[data-md-color-scheme="default"] .md-tabs .md-tabs__link {
-  color: #000;
+[data-md-color-scheme="default"] .md-header .md-search__input {
+  color: #1d1d1f;
 }
 
-/* Black & white theme overrides - dark mode */
-[data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #fff;
-  --md-primary-bg-color: #1a1a1a;
-  --md-default-bg-color: #121212;
-  --md-accent-fg-color: #ccc;
-  --md-typeset-a-color: #fff;
+[data-md-color-scheme="slate"] .md-header .md-header__title,
+[data-md-color-scheme="slate"] .md-header .md-icon,
+[data-md-color-scheme="slate"] .md-header .md-search__input {
+  color: #f5f5f7;
 }
 
-[data-md-color-scheme="slate"] .md-header,
-[data-md-color-scheme="slate"] .md-tabs {
-  background: #1a1a1a;
-  color: #fff;
-  border-bottom: 1px solid #333;
-}
-
-/* Typography and spacing */
-.md-typeset h1 {
-  font-weight: 700;
-  letter-spacing: -0.02em;
-}
-
-.md-typeset h2 {
-  font-weight: 600;
-  margin-top: 1.6em;
-  padding-bottom: 0.3em;
+/* --- Tabs (Apple-style nav links) --- */
+.md-tabs {
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 
-/* Blockquote styling for role descriptions */
-.md-typeset blockquote {
-  border-left: 3px solid var(--md-primary-fg-color);
-  background: var(--md-code-bg-color);
-  padding: 0.6em 1em;
-  border-radius: 0 4px 4px 0;
+[data-md-color-scheme="default"] .md-tabs {
+  background: rgba(251, 251, 253, 0.8) !important;
 }
 
-/* Skills section: better flow */
-.md-typeset h2 ~ p:last-of-type {
-  line-height: 2;
+[data-md-color-scheme="slate"] .md-tabs {
+  background: rgba(0, 0, 0, 0.8) !important;
 }
 
-/* Table styling */
-.md-typeset table:not([class]) {
+.md-tabs__link {
   font-size: 0.82rem;
-  border-radius: 6px;
-  overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  font-weight: 400;
+  opacity: 0.65;
+  transition: opacity 0.3s ease;
 }
 
-.md-typeset table:not([class]) th {
-  background: #222;
-  color: #fff;
+.md-tabs__link:hover,
+.md-tabs__link--active {
+  opacity: 1;
+}
+
+/* --- Typography --- */
+.md-typeset {
+  font-size: 1.06rem;
+  line-height: 1.7;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h1 {
+  font-size: 2.8rem;
   font-weight: 600;
-  text-transform: uppercase;
-  font-size: 0.75rem;
-  letter-spacing: 0.05em;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+  margin-bottom: 0.4em;
 }
 
-[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
-  background: #333;
-  color: #fff;
+.md-typeset h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin-top: 3.5rem;
+  padding-bottom: 0;
+  border-bottom: none;
 }
 
-/* Profile image responsive */
+.md-typeset h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+  margin-top: 2rem;
+}
+
+/* --- Content width (narrower, like apple.com) --- */
+.md-content__inner {
+  max-width: 740px;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
+
+/* --- Hero section --- */
+.hero {
+  text-align: center;
+  padding: 2rem 0 3rem;
+}
+
+.hero img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.hero-name {
+  font-size: 3rem;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+  margin: 0 0 0.3em;
+}
+
+.hero-tagline {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: var(--md-default-fg-color--light);
+  letter-spacing: 0.02em;
+  margin: 0;
+}
+
+/* --- Statement section --- */
+.statement {
+  text-align: center;
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: var(--md-default-fg-color--light);
+  max-width: 600px;
+  margin: 0 auto 3rem;
+}
+
+.statement a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* --- Objective values --- */
+.values {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 2rem 0 3rem;
+}
+
+.values .value-item {
+  background: var(--md-code-bg-color);
+  border-radius: 16px;
+  padding: 1.5rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.values .value-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
 @media screen and (max-width: 44.9375em) {
-  .md-typeset img[alt="profile_picture"] {
-    float: none !important;
-    display: block;
-    margin: 0 auto 1em;
-    border-radius: 8px;
+  .values {
+    grid-template-columns: 1fr;
   }
 }
 
-/* Smooth transitions */
-.md-nav__link,
-.md-tabs__link {
-  transition: color 0.2s ease, opacity 0.2s ease;
+/* --- Experience cards --- */
+.experience-card {
+  background: var(--md-code-bg-color);
+  border-radius: 16px;
+  padding: 1.8rem 2rem;
+  margin-bottom: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Footer social icons */
-.md-social__link svg {
-  transition: transform 0.2s ease;
+.experience-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
 }
 
-.md-social__link:hover svg {
-  transform: scale(1.15);
+[data-md-color-scheme="slate"] .experience-card:hover {
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.04);
+}
+
+.experience-card h3 {
+  margin-top: 0 !important;
+  margin-bottom: 0.2em;
+  font-size: 1.15rem;
+}
+
+.experience-card .role-meta {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.88rem;
+  margin-bottom: 1em;
+}
+
+.experience-card ul {
+  margin-bottom: 0;
+}
+
+.experience-card li {
+  margin-bottom: 0.5em;
+  font-size: 0.95rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* --- Education cards --- */
+.education-card {
+  background: var(--md-code-bg-color);
+  border-radius: 16px;
+  padding: 1.8rem 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.education-card h3 {
+  margin-top: 0 !important;
+  margin-bottom: 0.6em;
+}
+
+.education-card li {
+  margin-bottom: 0.5em;
+  font-size: 0.95rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* --- Skill pills --- */
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 1rem;
+}
+
+.skill-pill {
+  display: inline-block;
+  padding: 6px 16px;
+  border-radius: 100px;
+  background: var(--md-code-bg-color);
+  font-size: 0.82rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.skill-pill:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+/* --- Tables (Track of Record) --- */
+.md-typeset table:not([class]) {
+  font-size: 0.82rem;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--md-code-bg-color);
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+  text-transform: none;
+  font-size: 0.8rem;
+  letter-spacing: 0;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table:not([class]) td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background: var(--md-code-bg-color);
+}
+
+.md-typeset table:not([class]) tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* --- Blockquote (remove old styling) --- */
+.md-typeset blockquote {
+  border-left: none;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+
+/* --- Links --- */
+.md-typeset a {
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.md-typeset a:hover {
+  opacity: 0.7;
+}
+
+/* --- Footer --- */
+.md-footer {
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-footer-meta {
+  font-size: 0.78rem;
+}
+
+.md-social__link {
+  opacity: 0.5;
+  transition: opacity 0.3s ease, transform 0.2s ease;
+}
+
+.md-social__link:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* --- Hide repo link from header --- */
+.md-header__source {
+  display: none;
+}
+
+/* --- Fade-in animation --- */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.md-content {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* --- Smooth scrolling --- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* --- Back to top button --- */
+.md-top {
+  border-radius: 100px;
+  font-size: 0.78rem;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+/* --- Responsive --- */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset h1 {
+    font-size: 2rem;
+  }
+
+  .hero-name {
+    font-size: 2.2rem;
+  }
+
+  .hero-tagline {
+    font-size: 1rem;
+  }
+
+  .experience-card,
+  .education-card {
+    padding: 1.2rem 1.4rem;
+  }
+
+  .md-content__inner {
+    padding-top: 1.5rem;
+  }
 }

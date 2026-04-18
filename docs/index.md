@@ -1,101 +1,171 @@
-# Kay Schneutzer
-
-![profile_picture](assets/SWO-105207-20240305_10-52-07.jpg){ width="300", align=right, style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" }
-
-## Statement
-
-
-The path to success, action, and productivity is not reflected in a job vita you can read on [Linkedin](https://www.linkedin.com/in/kay-schneutzer-50169817/"Linkedin"). It's the things you won't find there. Here's a short bio with interesting insight out my vita.
-
-Today  I  feel home in Hamburg (Germany) and Goa (India). I work with topics I really love, like AI, Microsoft Technology, Business Development, Entrepreneurship in an international environment - and it happened with being employed at NTT Germany and them allowing me to do so. 
-
 ---
-## Objective
-
-* Always do what I believe in. 
-* Today is always the perfect day to start something new. 
-* Be the trusted person I want to rely on.
-* Whenever I am scared to do something, ensure that I am doing it.  
-  
----
-## :fontawesome-solid-briefcase: Work experience
-### Business Development for Microsoft Technologies & AI 
-> *from 01.10.2019 - present, NTT Germany Ag Co. KG , Hamburg.* <br>
-
-* being a mentor for the european development program  and helping a young group of talented people pitch their ideas to make me learn things I would not be able to teach them
-* Feeling a bit disappointed being finalist at 2 global hackathons within NTT with the same idea for the 3rd time
-* reaching a Microsoft target with my Manager, although the target was never set
-* presenting a Conversation AI with a Partner to Microsoft Global without intensive preparing and yet doing very well
-* being happy that I finally was able to kitesurf for the first time
-* being able to explain conversational AI to anyone at any time with my colleague [Holger](https://github.com/holgerimbery"Holger") without any prior preparation
-
-### Business Development Manager for Microsoft & Workplace 
-> *from 01.05.2019 - 01.09.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
-
-* feeling motivated to be part of a team responsible for setting up the the Microsoft Business in Dimension Data Germany Ag Co. KG
-* Being told by a colleague that he believes he will work with Microsoft Technology because of me
-* Winning an Innovation Award for an Conversational AI which, today, is part of my job description
-* learning about the value of a having a very good Business Plan 
-
-###  Solution Architect for Microsoft technologies 
-> *from 01.06.2014 - 01.05.2019, Dimension Data Germany Ag Co. KG, Hamburg* <br>
-
-* I found new friends for life during the Dimension Data Fast Track Program in south Africa
-* Giving a very personal presentation, with my team during Fast Track Program
-* conducting a West Cost Swing Festival in India [Namaste Swing](https://namasteswing.in/?fbclid=IwAR0uXs7akKQcK8jYuyX1Mn10ynVbIk6T94COuCZo9Is5tmRcFl4Gt54W6Xc)
-
-###  Microsoft IT Cloud Consultant 
-> *from 01.04.2011 - 01.05.2014, QSC AG/Info AG, Hamburg* <br>
-
-* Being a leading part of a team building a private Microsoft Cloud
-* Learning how cloud projects can fail
-* Being one of the early cloud consultants who still looks up the definition of Cloud to understand what his job is about
-
-###  Account Manager BPOS 
-> *from 01.01.2010 - 01.05.2011, Tulip Telecom, Mumbai* <br>
-
-* finding personal boundaries
-* surviving India as a German Sales Person and truly reaching my personal limits 
-* meeting my future wife 
-* Co Fonding Mumbai's biggest Ballroom Dance school [TanzVerden](https://www.facebook.com/TanzVerdenBallroomInternational"TanzVerden")
-* teaching dancesport in India and watching my dance couple becoming Indian champion after one year of very hard work
-* living on 80 m² with 8 people from 7 countries for 1 Year on an Indian salary 
-* opening a letter I wrote to my self telling me why I went to India
-* getting to know what my personal values truly are. 
-
-###  AIESEC President External Relations 
-> *from 01.01.2009 - 01.05.2013, AIESEC, Halle/Saale* <br>
-
-* working long and motivated hours in a team without getting paid for it and still being happy about it
-* creating my own internal relationship and friendships which are still alive today.
-* creating my first sales engagement model in an international teams and seeing it applied in a large organization
-* deciding to stop my 20 year long dance career and the highest performance I ever achieved
-
-
+hide:
+  - navigation
+  - toc
 ---
 
-## :fontawesome-solid-graduation-cap: Education
-The Martin Luther University of Halle-Wittenberg
+<div class="hero" markdown>
 
-  * feeling fulfilled being a professional Ballroom dancer and teacher 
-  * Co-founding a dance school [1STEP](https://ballroomlounge.wordpress.com/"1STEP") in Halle/Saale which is still doing well today
-  * Studying for one year in Bratislava (Slovakia) and failing
-  * Finishing some courses is sometimes more important than being good at it
-    
+![profile_picture](assets/SWO-105207-20240305_10-52-07.jpg)
 
-Elisabeth-Gymnasium Halle
+<p class="hero-name">Kay Schneutzer</p>
+<p class="hero-tagline">Business Development &middot; AI &middot; Microsoft Technologies</p>
 
-  * starting dancing at the age of eight
-  * focussing early on, on what I loved and becoming really good at it is still helping me today
+</div>
 
----
+<div class="statement" markdown>
 
-## :material-puzzle: Skills
-It's expected that I have the skills to function at my current job.
-However, here are some skills I train everyday (ok, most days): 
+The path to success is not reflected in a job vita you can read on [LinkedIn](https://www.linkedin.com/in/kay-schneutzer-50169817/). It's the things you won't find there. I feel home in Hamburg and Goa. I work with topics I love — AI, Microsoft Technology, Business Development, and Entrepreneurship in an international environment.
 
-Body Language, Physical Communication, Writing, Storytelling, Visual Communication,  Humor, Quick-wittedness, Listening, Presentation Skills,  Public Speaking, Interviewing, Team Building, Strategic Planning, Coaching, Mentoring , Delegation, Dispute Resolution, Diplomacy, Giving Feedback , Managing Difficult Conversations 
-Decision Making , Performance Management , Managing Manager Management,  Talent Management, Managing Remote Teams 
-Managing Virtual Teams , Crisis Management , Influencing , Facilitation, Selling , Inspiring , Persuasion, Negotiation
-Motivating , Collaborating , Interpersonal Skills, Interpersonal Relationships, Dealing with Difficult People , Conflict Resolution , Personal Branding , Self Awareness, Emotion Management, Stress Management , Tolerance of Change and Uncertainty , Taking Criticism , Self Confidence , Adaptability ,  Resilience , Assertiveness , Competitiveness 
-Self Leadership , Self Assessment , Work-Life Balance , Friendliness , Enthusiasm , Empathy, Problem Solving , Critical Thinking , Innovation , Troubleshooting , Design Sense, Artistic Sense , Organization ,Planning , Scheduling , Time Management , Meeting Management ,Technology Savvy ,Technology Trend Awareness ,Business Trend ,Awareness ,Business Etiquette , Business Ethics ,Diversity Awareness ,Disability Awareness ,Intercultural Competence, Train the Trainer , Process Improvement ,Knowledge Management, Writing Reports and Proposals , Customer Service ,Entrepreneurial Thinking
+</div>
+
+## What I believe in
+
+<div class="values" markdown>
+
+<div class="value-item" markdown>
+Always do what I believe in.
+</div>
+
+<div class="value-item" markdown>
+Today is always the perfect day to start something new.
+</div>
+
+<div class="value-item" markdown>
+Be the trusted person I want to rely on.
+</div>
+
+<div class="value-item" markdown>
+Whenever I am scared to do something, ensure that I am doing it.
+</div>
+
+</div>
+
+## Experience
+
+<div class="experience-card" markdown>
+
+### Business Development for Microsoft Technologies & AI
+<div class="role-meta">Oct 2019 — Present &middot; NTT Germany AG Co. KG, Hamburg</div>
+
+- Mentoring the European development program, helping talented people pitch their ideas
+- Finalist at 2 global hackathons within NTT
+- Reaching a Microsoft target with my manager, although the target was never set
+- Presenting Conversational AI with a partner to Microsoft Global without preparation — and doing very well
+- Explaining conversational AI to anyone at any time with colleague [Holger](https://github.com/holgerimbery) without any prior preparation
+- Finally learning to kitesurf
+
+</div>
+
+<div class="experience-card" markdown>
+
+### Business Development Manager for Microsoft & Workplace
+<div class="role-meta">May 2019 — Sep 2019 &middot; Dimension Data Germany AG Co. KG, Hamburg</div>
+
+- Setting up the Microsoft Business in Dimension Data Germany
+- Being told by a colleague he will work with Microsoft Technology because of me
+- Winning an Innovation Award for Conversational AI, which today is part of my job description
+- Learning the value of a very good business plan
+
+</div>
+
+<div class="experience-card" markdown>
+
+### Solution Architect for Microsoft Technologies
+<div class="role-meta">Jun 2014 — May 2019 &middot; Dimension Data Germany AG Co. KG, Hamburg</div>
+
+- Found new friends for life during the Dimension Data Fast Track Program in South Africa
+- Giving a very personal presentation with my team during Fast Track Program
+- Conducting a West Coast Swing Festival in India — [Namaste Swing](https://namasteswing.in/)
+
+</div>
+
+<div class="experience-card" markdown>
+
+### Microsoft IT Cloud Consultant
+<div class="role-meta">Apr 2011 — May 2014 &middot; QSC AG / Info AG, Hamburg</div>
+
+- Leading part of a team building a private Microsoft Cloud
+- Learning how cloud projects can fail
+- One of the early cloud consultants who still looked up the definition of Cloud
+
+</div>
+
+<div class="experience-card" markdown>
+
+### Account Manager BPOS
+<div class="role-meta">Jan 2010 — May 2011 &middot; Tulip Telecom, Mumbai</div>
+
+- Surviving India as a German sales person and truly reaching my personal limits
+- Meeting my future wife
+- Co-founding Mumbai's biggest Ballroom Dance school — [TanzVerden](https://www.facebook.com/TanzVerdenBallroomInternational)
+- Teaching dancesport in India, watching my dance couple become Indian champions after one year
+- Living on 80 m² with 8 people from 7 countries for 1 year on an Indian salary
+
+</div>
+
+<div class="experience-card" markdown>
+
+### AIESEC President External Relations
+<div class="role-meta">Jan 2009 — May 2013 &middot; AIESEC, Halle/Saale</div>
+
+- Working long and motivated hours in a team without pay and being happy about it
+- Creating my first sales engagement model in international teams, seeing it applied in a large organization
+- Deciding to stop my 20-year dance career at the highest performance I ever achieved
+
+</div>
+
+## Education
+
+<div class="education-card" markdown>
+
+### Martin Luther University of Halle-Wittenberg
+
+- Professional Ballroom dancer and teacher
+- Co-founded dance school [1STEP](https://ballroomlounge.wordpress.com/) in Halle/Saale — still going strong today
+- Studying for one year in Bratislava, Slovakia
+- Finishing some courses is sometimes more important than being good at it
+
+</div>
+
+<div class="education-card" markdown>
+
+### Elisabeth-Gymnasium Halle
+
+- Started dancing at the age of eight
+- Focusing early on what I loved and becoming really good at it — still helping me today
+
+</div>
+
+## Skills
+
+It's expected that I have the skills to function at my current job. Here are some I train every day:
+
+<div class="skills-container" markdown>
+<span class="skill-pill">Body Language</span>
+<span class="skill-pill">Storytelling</span>
+<span class="skill-pill">Public Speaking</span>
+<span class="skill-pill">Presentation Skills</span>
+<span class="skill-pill">Team Building</span>
+<span class="skill-pill">Strategic Planning</span>
+<span class="skill-pill">Coaching</span>
+<span class="skill-pill">Mentoring</span>
+<span class="skill-pill">Negotiation</span>
+<span class="skill-pill">Persuasion</span>
+<span class="skill-pill">Conflict Resolution</span>
+<span class="skill-pill">Decision Making</span>
+<span class="skill-pill">Crisis Management</span>
+<span class="skill-pill">Empathy</span>
+<span class="skill-pill">Resilience</span>
+<span class="skill-pill">Adaptability</span>
+<span class="skill-pill">Innovation</span>
+<span class="skill-pill">Problem Solving</span>
+<span class="skill-pill">Critical Thinking</span>
+<span class="skill-pill">Intercultural Competence</span>
+<span class="skill-pill">Entrepreneurial Thinking</span>
+<span class="skill-pill">Personal Branding</span>
+<span class="skill-pill">Managing Remote Teams</span>
+<span class="skill-pill">Technology Trend Awareness</span>
+<span class="skill-pill">Self Leadership</span>
+<span class="skill-pill">Work-Life Balance</span>
+</div>
