@@ -1,6 +1,6 @@
 # Kay Schneutzer
 
-![profile_picture](assets/SWO-105207-20240305_10-52-07.jpg){ width="300", align=right, style="border-radius: 50%;" }
+![profile_picture](assets/SWO-105207-20240305_10-52-07.jpg){ width="300", align=right, style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" }
 
 ## Statement
 

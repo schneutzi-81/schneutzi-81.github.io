@@ -47,6 +47,7 @@
     float: none !important;
     display: block;
     margin: 0 auto 1em;
+    border-radius: 8px;
   }
 }
 
