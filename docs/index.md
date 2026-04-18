@@ -9,7 +9,7 @@ hide:
 ![profile_picture](assets/SWO-105207-20240305_10-52-07.jpg)
 
 <p class="hero-name">Kay Schneutzer</p>
-<p class="hero-tagline">Business Development &middot; AI &middot; Microsoft Technologies</p>
+<p class="hero-tagline">Data & AI &middot; Business Development &middot; Cloud Technologies</p>
 
 </div>
 
@@ -45,8 +45,29 @@ Whenever I am scared to do something, ensure that I am doing it.
 
 <div class="experience-card" markdown>
 
+### Presales Consultant Data & AI
+<div class="role-meta">Jul 2024 — Present &middot; SoftwareOne, Germany (Hybrid)</div>
+
+- Utilizing data-driven analytics for strategic decision-making and fostering innovation
+- Collaborating with clients on strategic objectives through public speaking and advisory
+- Expanding expertise across Microsoft, Google Cloud, and AWS hyperscaler ecosystems
+
+</div>
+
+<div class="experience-card" markdown>
+
+### Business Development Executive
+<div class="role-meta">Aug 2023 — Oct 2024 &middot; SoftwareOne, Hamburg</div>
+
+- Driving business development at a leading global platform, solutions, and services provider
+- Supporting clients throughout their technology roadmap in digital transformation, software, and cloud computing
+
+</div>
+
+<div class="experience-card" markdown>
+
 ### Business Development for Microsoft Technologies & AI
-<div class="role-meta">Oct 2019 — Present &middot; NTT Germany AG Co. KG, Hamburg</div>
+<div class="role-meta">Oct 2019 — Jul 2023 &middot; NTT Germany AG Co. KG, Hamburg</div>
 
 - Mentoring the European development program, helping talented people pitch their ideas
 - Finalist at 2 global hackathons within NTT
